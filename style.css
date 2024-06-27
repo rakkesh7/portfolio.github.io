@@ -755,7 +755,7 @@ span {
     display: block;
   }
   .header{
-    width: 400px;
+    width: 414px;
   }
   .navbar{
     position: absolute;
@@ -807,7 +807,7 @@ span {
     justify-content: center;
   }
   .about{
-    width: 400px;
+    width: 414px;
   height: 450px;
   padding: 10px 50px;
   padding-top: -40px;
@@ -824,19 +824,17 @@ justify-content: center;
   .education {
     padding: 100px 15px;
     background: var(--second-bg-color);
-    width: 400px;
+    width: 414px;
   }
   .abt{
     background: var(--second-bg-color);
-    width: 400px;
+    width: 414px;
   }
   .contact{
     justify-content: center;
   }
   .footer{
-    width: 400px;
+    width: 414px;
   }
-  .body{
-    width:400px;
-  }
+  
 }
