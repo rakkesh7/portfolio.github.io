@@ -836,4 +836,7 @@ justify-content: center;
   .footer{
     width: 400px;
   }
+  .body{
+    width:100%;
+  }
 }
