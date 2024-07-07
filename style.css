@@ -527,7 +527,7 @@ span {
 .about {
  
   width: 600px;
-  height: 500px;
+  height: 600px;
   padding: 75px 90px;
   margin-left: 220px;
 
@@ -591,9 +591,12 @@ span {
   width: 80%;
 }
 .progress-line.javascript span{
-  width:50%;
+  width:85%;
 }
 .progress-line.python span{
+  width: 90%;
+}
+.progress-line.git span{
   width: 90%;
 }
 .abt{
@@ -618,9 +621,12 @@ span {
   content: "80%";
 }
 .progress-line.javascript span::after{
-  content:"50%";
+  content:"85%";
 }
 .progress-line.python span::after{
+  content: "90%";
+}
+.progress-line.git span::after{
   content: "90%";
 }
 .progress-line span::before{
